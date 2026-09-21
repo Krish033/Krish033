@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Krishna 👋
 
-<!--
-**Krish033/Krish033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer building web applications, AI agents, automation systems, and developer tools.
 
-Here are some ideas to get you started:
+🚀 I work primarily with TypeScript, React, Next.js, NestJS, Laravel, Python, and PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Currently exploring LLMs, AI agents, RAG, MCP, local AI, and AI-powered developer tools.
+
+☁️ Interested in cloud infrastructure, Docker, distributed systems, APIs, and scalable architectures.
+
+🛠️ I like turning weird ideas into things that actually run.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+
+TypeScript · JavaScript · Python · PHP · SQL
+
+**Frontend**
+
+React · Next.js · Tailwind CSS
+
+**Backend**
+
+Node.js · NestJS · Laravel · FastAPI
+
+**Databases**
+
+PostgreSQL · MongoDB · MySQL · Redis
+
+**DevOps & Infrastructure**
+
+Docker · Linux · Git · AWS
+
+**AI**
+
+LLMs · RAG · AI Agents · Ollama · MCP
+
+---
+
+## 🚀 What I'm Building
+
+- 🤖 AI-powered developer tools
+- 🧠 AI agents and automation systems
+- ☁️ Cloud & compute infrastructure
+- 🔎 Web scraping and lead-generation systems
+- ⚡ Full-stack SaaS applications
+
+---
+
+## 📌 Featured Projects
+
+### Tessa
+An AI assistant designed to execute tasks, use tools, maintain context, and automate repetitive workflows.
+
+### Compute Platform
+A cloud-style compute control plane for managing Docker containers, resources, networking, and persistent infrastructure.
+
+---
+
+## 📫 Connect
+
+- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/)
