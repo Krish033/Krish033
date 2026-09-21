@@ -62,5 +62,5 @@ A cloud-style compute control plane for managing Docker containers, resources, n
 
 ## 📫 Connect
 
-- Fiverr.: [Krish033]([https://github.com/YOUR_USERNAME](https://www.fiverr.com/s/WE4rBzd))
+- Fiverr.: [Krish033](https://www.fiverr.com/s/WE4rBzd)
 - LinkedIn: [Sri Krishna](https://linkedin.com/in/sri-krishna-642981126)
